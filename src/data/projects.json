@@ -1,0 +1,27 @@
+[
+    {
+      "title": "P-Mastery V2",
+      "imageSrc": "projects/pmasteryV2.png",
+      "description": "Developed for managing PFE (Projet de Fin d'Études) processes. I contributed to maintaining existing code, adding new functionalities, and managing the deployment process.",
+      "skills": ["Spring Boot", "React"],
+      "demo": "https://drive.google.com/file/d/1zv02ymV98njFM2TIek7I4HnxsNcu_BwA/view?usp=sharing",
+      "source": "https://github.com/douaeelh2/P-Mastery.git"
+    },
+    {
+      "title": "GPT-3",
+      "imageSrc": "projects/gpt-3.png",
+      "description": "I developed this frontend website to practice React. Throughout the development process, I applied best practices in React, such as component-based architecture and state management.",
+      "skills": ["HTML", "CSS", "React"],
+      "demo": "https://drive.google.com/file/d/1QmBOWabAnWLPnPaNuOiDfOGtF64lrc-A/view?usp=sharing",
+      "source": "https://github.com/MANSUsra/GPT-3.git"
+    },
+    {
+      "title": "ChatApplication",
+      "imageSrc": "projects/chatApp.png",
+      "description": "I gained firsthand experience in mobile development using Java by developing a chat application. This project gave me valuable insights into Java-based Android app development.",
+      "skills": ["Java", "XML", "Firebase"],
+      "demo": "https://drive.google.com/file/d/1DJt55_dtedDOVs22JVzmrrYjy9CrluFh/view?usp=sharing",
+      "source": "https://github.com/MANSUsra/chatApp.git"
+    }
+   
+  ]
