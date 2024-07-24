@@ -16,11 +16,11 @@ export const Hero = () => {
           Contact Me
         </a>
       </div>
-      <img
+      {/* <img
         src={getImageUrl("hero/myPic.png")}
         alt="Hero image of me"
         className={styles.heroImg}
-      />
+      /> */}
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
