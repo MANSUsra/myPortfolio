@@ -9,5 +9,16 @@
       "Ensured feature completion, debugging, and optimized codebase to meet project requirements and timelines"
     ],
       "imageSrc": "history/pipenile.jpg"
-    }
+    },
+    {
+        "role": "State Engineering Diploma from the National School of Applied Sciences ",
+        "organisation": "ENSAO",
+        "startDate": "Sept, 2020",
+        "endDate": "Jul, 2025",
+        "experiences": [
+        "Two years in the integrated preparatory cycle",
+        "Three years in the engineering cycle specializing in computer engineering"
+      ],
+        "imageSrc": "history/ensao.png"
+      }
   ]
