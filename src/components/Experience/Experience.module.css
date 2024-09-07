@@ -101,6 +101,12 @@
   list-style: none;
 }
 
+.historyItemDetails ul li::before {
+  content: "- "; 
+  color: var(--color-text);
+  margin-right: 10px; 
+}
+
 @media screen and (max-width: 830px) {
   .content {
     flex-direction: column;

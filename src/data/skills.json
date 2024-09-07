@@ -38,6 +38,13 @@
     {
       "title": "GitHub",
       "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "Vue",
+      "imageSrc": "skills/vue.png"
+    },
+    {
+      "title": "Nuxt",
+      "imageSrc": "skills/nuxt.png"
     }
-    
   ]
